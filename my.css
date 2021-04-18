@@ -1,0 +1,128 @@
+
+.container-fluid{
+    
+    width: 100%;
+    height: 100vh;
+    padding: 20px;
+}
+.row{
+    width: 800px;
+    height: 500px;
+    background-color: rgb(151, 235, 169);
+    margin: auto;
+    
+}
+.chat-main-box{
+    width: 800px; 
+    height: 800px;
+    background-color: rgb(255, 115, 0);
+    margin: auto;
+    padding: 30px;
+}
+.my-self{
+    width: 750px;
+    /* background-color: rgb(205, 190, 219); */
+    padding: 10px;
+}
+.image-box{
+    width: 60px;
+    height: 60px;
+    background-color: gray;
+    display: inline-block;
+    border-radius: 10px;
+    position: relative;
+    right: 10px;
+    
+}
+img{
+   width: 60px;
+   height: 58px;
+   background-color: red;
+   display: inline-block;
+   border-radius: 10px;
+   
+   
+   
+   
+
+   
+   
+}
+.fa-user{
+    font-size: 55px;
+    padding: 5px;
+}
+
+.head-list{
+    width: 80%;
+    height: 80px;
+    list-style: none;
+}
+
+ul .head-list{
+    margin-left: 30px;
+}
+ul ul ul {
+    list-style: none;
+    margin-left: 30px;
+}
+    
+.chat{
+    width: 80%;
+    height: 40px;
+    background-color: white;
+    border-radius: 4px;
+    margin-left: 5px;
+    position: relative;
+    bottom: 13px;
+    
+}
+.name{
+    display: inline-block;
+}
+.name-chat-coments{
+    
+    position: relative;
+    bottom: 55px;
+    left:60px ;
+
+}
+.name-chat p{
+    position: relative;
+    bottom: 10px;
+    
+    
+}
+.chat-share{
+    height: 50px;
+    /* background-color: red; */
+    position: relative;
+    bottom: 25px;
+
+}
+.fa-chevron-up{
+    border-right: 2px solid;
+    padding-right: 5px;
+    
+}
+h5{
+    font-size: 18px;
+    
+}
+.fa-share{
+    font-size: 13px;
+}
+
+.image-box .fa-user-tie{
+    font-size: 13px;
+}
+/* ul ul ul .image-box{
+    width: 60px;
+    height: 60px;
+    background-color: gray;
+    display: inline-block;
+    border-radius: 10px;
+    position: relative;
+    right: 10px;
+    
+} */
