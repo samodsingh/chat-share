@@ -1,19 +1,19 @@
 
 .container-fluid{
-    
+    font-family: 'Playfair Display', serif;
     width: 100%;
     height: 100vh;
     padding: 20px;
 }
 .row{
-    width: 800px;
+    width: 900px;
     height: 500px;
     background-color: rgb(151, 235, 169);
     margin: auto;
     
 }
 .chat-main-box{
-    width: 800px; 
+    width: 900px; 
     height: 800px;
     background-color: rgb(255, 115, 0);
     margin: auto;
@@ -54,7 +54,7 @@ img{
 }
 
 .head-list{
-    width: 80%;
+    width: 90%;
     height: 80px;
     list-style: none;
 }
@@ -68,7 +68,7 @@ ul ul ul {
 }
     
 .chat{
-    width: 80%;
+    width: 90%;
     height: 40px;
     background-color: white;
     border-radius: 4px;
